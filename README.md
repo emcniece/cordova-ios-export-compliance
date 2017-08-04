@@ -13,3 +13,7 @@ or:
 or:
 
 `$ cordova plugin add cordova-ios-export-compliance`
+
+## Credits
+
+Inspired by https://github.com/mikaoelitiana/cordova-plugin-ios-no-export-compliance
