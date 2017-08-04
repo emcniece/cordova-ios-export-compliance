@@ -1,6 +1,6 @@
 {
   "name": "cordova-ios-export-compliance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Set ITSAppUsesNonExemptEncryption for Cordova based iOS apps",
   "repository": {
     "type": "git",
